@@ -132,3 +132,8 @@ span {
 .contact-list {
   font-weight: 700;
 }
+
+.date {
+  text-align: right;
+  margin-top: 2%;
+}
