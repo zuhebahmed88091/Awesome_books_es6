@@ -1,0 +1,134 @@
+span {
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
+
+.awesome-books {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 8%;
+}
+
+.awesome-books h1 {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-bottom: 3.5rem;
+}
+
+.remove-btn {
+  width: 25%;
+  border-radius: 0.5rem;
+  box-shadow: 1px 2px;
+  background-color: aliceblue;
+}
+
+.add {
+  margin-top: 4rem;
+}
+
+.add-btn {
+  width: 37.91%;
+  background-color: aliceblue;
+  border-radius: 0.5rem;
+  box-shadow: 1px 2px;
+}
+
+.add-button {
+  text-align: end;
+}
+
+#book-list {
+  width: 40rem;
+  list-style: none;
+  padding-left: 0;
+  border: 2px solid #2b2d42;
+  box-shadow: 1px 2px;
+}
+
+.add-book {
+  display: flex;
+  flex-direction: column;
+}
+
+.add-book input {
+  margin-bottom: 4%;
+  border-radius: 0.4rem;
+  height: 1.5rem;
+}
+
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 3%;
+}
+
+.list-item:nth-child(odd) {
+  background-color: #8d99ae;
+}
+
+.list-item span {
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  border: 2px solid #2b2d42;
+  box-shadow: 1px 2px;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.navbar-ul {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-ul a {
+  color: #000;
+  text-decoration: none;
+  margin-top: 0.2rem;
+}
+
+.navbar-ul li {
+  color: black;
+  font-size: 1.1rem;
+  font-weight: 700;
+  text-decoration: none;
+  list-style: none;
+  padding-left: 4rem;
+  padding-right: 1rem;
+  padding-top: 0.2rem;
+  margin: 0.2rem;
+  border-right: 2px solid #2b2d42;
+}
+
+/* COPYTIGT SECTION  */
+.copyright {
+  border: 2px solid #2b2d42;
+  box-shadow: 1px 2px;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.copytight-header {
+  padding: 10px 20px;
+}
+
+.contact {
+  margin-bottom: 5%;
+}
+
+.contact p {
+  font-weight: 700;
+  margin: 0;
+}
+
+.contact-list {
+  font-weight: 700;
+}
