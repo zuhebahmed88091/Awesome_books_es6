@@ -50,6 +50,7 @@
 - **Local Storage**
 - **Dynamics of HTML using JavaScript**
 - **DOM Manipulation**
+- **ES6**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -57,7 +58,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://mahdinoori2000.github.io/awesome-book/)
+- [Live Demo Link](https://zuhebahmed88091.github.io/Awesome_books_es6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -149,12 +150,6 @@ You can deploy this project using: GitHub Pages,
 - Twitter: [@zuhebahmed88091](https://twitter.com/ZuhebAhmed88091)
 - LinkedIn: [Zuheb Ahmed](https://www.linkedin.com/in/zuheb-ahmed/)
 
-## :bust_in_silhouette: Author <a name="Mahdi Noori"></a>
-
-- GitHub: [@mahdinoori2000](https://github.com/mahdinoori2000)
-- Twitter: [@mahdinoori2000](https://twitter.com/mahdinoori2000)
-- LinkedIn: [Mahdi Noori](https://www.linkedin.com/in/mahdi-noori-4b4370270/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## :telescope: Future Features <a name="future-features"></a>
@@ -162,7 +157,6 @@ You can deploy this project using: GitHub Pages,
 - [ ] **Add Backend**
 - [ ] **Add CSS styles**
 - [ ] **About Section**
-- [ ] **JavaScript Classes**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
